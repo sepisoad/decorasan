@@ -1,0 +1,3 @@
+package decorasan
+
+const empty = "";
